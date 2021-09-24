@@ -16,11 +16,11 @@
 
 We release large-scale datasets of users’ comments in two languages, English and Korean, for aspect-level sentiment analysis in automotive domain. The datasets consist of 58,000+ commentaspect pairs, which are the largest compared to existing datasets. In addition, this work covers new language (i.e., Korean) along with English for aspect-level sentiment analysis. We build the datasets from automotive domain to enable users (e.g., marketers in automotive companies) to analyze the voice of customers on automobiles. 
 
-<p align="center"><img src="images/data_comparison.png" alt="Data comparison" width="50%"></p>
+<p align="center"><img src="images/data_comparison.png" alt="Data comparison" width="45%"></p>
 
 We also provide baseline performances for future work by evaluating recent models on the released datasets.
 
-<p align="center"><img src="images/performance.png" alt="Baseline performance" width="50%"></p>
+<p align="center"><img src="images/performance.png" alt="Baseline performance" width="60%"></p>
 
 
 ## Data
