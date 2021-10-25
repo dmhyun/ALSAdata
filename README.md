@@ -24,8 +24,10 @@ We also provide baseline performances for future work by evaluating recent model
 
 
 ## Data
-We are currently considering legal issues regarding data release, and will upload them as soon as possible.
- 
+We provide the data for research purpose only and the redistribution of the data is prohibited. Please concat us if you agree to the terms of use.  
+<pre><code> Contact information: dm.hyun@postech.ac.kr
+</code></pre>
+
 ## Aspect-level sentiment classifiers
 Refer to a repository [here](https://github.com/songyouwei/ABSA-PyTorch), which is based on PyTorch. Simply change the data in the repository with ours to check the performance. 
 
