@@ -28,6 +28,13 @@ We provide the data for research purpose only and the redistribution of the data
 <pre><code> Contact information: dm.hyun@postech.ac.kr
 </code></pre>
 
+## Pretrained Word Vectors
+We also provide the word vectors trained with Word2Vec for each language.
+
+English: [Google Drive link](https://drive.google.com/file/d/1XBz3YgFZiZBXDEfz2-BgQDgcnp28jYcc/view?usp=sharing)
+
+Korean: [Google Drive link](https://drive.google.com/file/d/1hmJ0uB6OMUlDcKYZLLYz-fJvjA1DSaRh/view?usp=sharing)
+
 ## Aspect-level sentiment classifiers
 Refer to a repository [here](https://github.com/songyouwei/ABSA-PyTorch), which is based on PyTorch. Simply change the data in the repository with ours to check the performance. 
 
