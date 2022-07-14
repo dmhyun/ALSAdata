@@ -24,7 +24,7 @@ We also provide baseline performances for future work by evaluating recent model
 
 
 ## Data
-We provide the data for research purpose only and the redistribution of the data is prohibited. Please concat us if you agree to the terms of use.  
+We provide the data for research purpose only and the redistribution of the data is prohibited. Please contact us if you agree to the terms of use.  
 <pre><code> Contact information: dm.hyun@postech.ac.kr
 </code></pre>
 
